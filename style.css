@@ -110,7 +110,7 @@ nav i{
 }
 .ShowCase img{
     width: 100%;
-    max-width: 900px;
+    max-width: 600px;
     margin: auto;
 }
 
@@ -144,13 +144,15 @@ nav i{
 
 .cards img{
     margin-top: 20px;
-    height: auto;
+    height: 350px;
     width: 100%;
     border: 1px solid black;
-    object-fit: contain;
+    object-fit: cover;
 } 
 
 .cards img:hover{
+    -ms-zoom-animation: default
+    position: ;
     border: 1px solid gold;
     box-shadow: black;
     z-index: 2;
