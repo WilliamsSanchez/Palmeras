@@ -11,7 +11,7 @@ document.querySelector(".listas").addEventListener("click", ()=>{
 
 
 ScrollReveal().reveal('.ShowCase');
-ScrollReveal().reveal('.cards', {delay: 500});
-ScrollReveal().reveal('.div-art-uno', {delay: 500});
-ScrollReveal().reveal('.SeccionDos', {delay: 500});
-ScrollReveal().reveal('.articuloDos', {delay: 500});
+ScrollReveal().reveal('.cards', {delay: 1000});
+ScrollReveal().reveal('.articulo', {delay: 1000});
+ScrollReveal().reveal('.SeccionDos', {delay: 1000});
+ScrollReveal().reveal('.articuloDos', {delay: 1000});
