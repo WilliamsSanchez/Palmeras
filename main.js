@@ -7,6 +7,10 @@ document.querySelector(".listas").addEventListener("click", ()=>{
 });
 
 
+var nombre = "Williams";
+
+alert( nombre)
+
 
 
 
