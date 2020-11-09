@@ -1,0 +1,3 @@
+<!------------------como subir a un repositorio existente------------------->
+git remote add  https://github.com/WilliamsSanchez/Palmeras/tree/master
+git push -u origin master
