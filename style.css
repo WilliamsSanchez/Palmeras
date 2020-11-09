@@ -88,6 +88,17 @@ nav i{
     padding: 5px;
 }
 
+/*------------------fecha------------------------*/
+
+.fecha{
+    background-color:  rgba(208, 235, 218, 0.877);
+    padding: 15px;
+    text-align: center;
+    margin: -5px 0 5px;
+    border: 2px solid gold;
+    border-radius: 10px;
+}
+
 /*-------------------Tablas----------------------*/
 .tablas{
     width: 100%;
@@ -100,8 +111,9 @@ nav i{
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     display: inline;
-    margin: auto;
+    margin: 5px auto;
     width: 100%;
+    border: 1px solid gold;
     display: flex;   
     flex-wrap: wrap; 
     background-color: rgba(208, 235, 218, 0.877);
@@ -114,6 +126,7 @@ nav i{
     width: 100%;
     padding: 10px;
     margin: 3px;
+    border: 2px solid black;
    
 }
 .tableizer-table th {
@@ -122,6 +135,7 @@ nav i{
     width: min-content;
     font-weight: bold;
     height: 40px;
+    border: 2px solid black;
 }
 
 
@@ -147,6 +161,7 @@ nav i{
     height: auto;
     /*max-width: 600px;*/
     margin: auto;
+    border: 2px solid black;
 }
 
 /*.ShowCase .titulo1{
@@ -267,12 +282,16 @@ nav i{
 /*Redes*/
 .SeccionRedes{
     background-color: #bbb6b6;
-    margin-top: 20px;
+    margin-top: 15px;
+    display: flex;
 }
 .redes h3{
     font-size: 30px;
     width: 100%;    
     padding-top: 0px;
+}
+.redes{
+    margin: auto;
 }
 
 .redes a{
