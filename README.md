@@ -1,3 +1,1 @@
-# mi-primer-proyecto
-mi primera pagina web
-aprendiendo a hacer paginas web
+#Revista Palmeras Energras es un sitio web donde se refleja un reporte diario del proceso productivo de esta planta.
