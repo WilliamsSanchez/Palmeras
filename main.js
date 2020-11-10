@@ -7,9 +7,10 @@ document.querySelector(".listas").addEventListener("click", ()=>{
 });
 
 
-var nombre = "Williams";
+var mensaje = "Este es el reporte diario de Palmeras Energras C.A.";
 
-alert( nombre)
+alert( mensaje)
+
 
 
 

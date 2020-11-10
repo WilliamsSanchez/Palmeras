@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Oswald', 'Arial Narrow', Arial, sans-serif;
 }
 
 body{
@@ -44,6 +45,7 @@ body{
 
 .imglogo{
     width: 350px;
+    padding-left: 5px;
    /* margin: 20 10;*/
 }
 
@@ -134,10 +136,13 @@ nav i{
     color: #FFF;
     width: min-content;
     font-weight: bold;
+    font-size: 20px;
     height: 40px;
     border: 2px solid black;
 }
-
+.total{
+    background-color:  rgba(19, 207, 82, 0.404);
+}
 
 
 
@@ -416,7 +421,7 @@ nav i{
     .njd .listas{
         position: absolute;
         width: 100px;
-        height: auto;
+        height: 200px;
         margin-left: 0px;
         padding: 10px;
         top: 0;
@@ -427,7 +432,8 @@ nav i{
         display: block;     
     }
     .imglogo{
-        width: 200px;
+        width: 250px;
+        height: auto;
     }
    
     .ShowCase{
